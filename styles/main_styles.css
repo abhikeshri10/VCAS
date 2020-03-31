@@ -39,6 +39,7 @@
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	scroll-behavior: smooth;
+	
 }
 .committe-table{
 	border-collapse: separate;
@@ -291,6 +292,7 @@ section
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+	filter: brightness(70%);
 }
 .nopadding
 {
@@ -891,7 +893,7 @@ section
 	padding-left: 22px;
 	padding-right: 24px;
 	background: #7f66ff;
-	 opacity: 0.8;
+	 /* opacity: 0.8; */
 	
 	 
 }
