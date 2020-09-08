@@ -531,7 +531,7 @@ section
 .main_nav ul li a
 {
 	display: block;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 500;
 	color: #fdfdfd;
 }
@@ -1038,6 +1038,12 @@ section
 {
 	background: #f5f8fb;
 	padding-top: 92px;
+	padding-bottom: 102px;
+}
+.register
+{
+	background: #f5f8fb;
+	padding-top: 162px;
 	padding-bottom: 102px;
 }
 .intro .section_title
